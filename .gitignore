@@ -1,0 +1,10 @@
+
+case-server/target/classes/
+
+logs/
+
+*.class
+
+.idea/
+
+*.iml
