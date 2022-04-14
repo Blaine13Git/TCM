@@ -134,7 +134,7 @@ public class DirServiceImpl implements DirService {
         // 如果没有，则会自动生成一个
         DirNodeDto root = new DirNodeDto();
         root.setId("root");
-        root.setText("项目");
+        root.setText("测试用例");
 
         Biz biz = new Biz();
         biz.setProductLineId(productLineId);
